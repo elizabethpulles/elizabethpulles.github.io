@@ -3,35 +3,12 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2022-09-18T19:23:37+02:00</updated>
+    <updated>2022-08-13T14:50:58+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
     <id>https://elizabethpulles.art</id>
 
-    <entry>
-        <title>Beautiful Bouviers</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/beautiful-bouviers/"/>
-        <id>https://elizabethpulles.art/beautiful-bouviers/</id>
-            <category term="Dogs"/>
-
-        <updated>2022-09-18T19:23:37+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://elizabethpulles.art/media/posts/7/Most-beautiful-dogs.jpg" alt="" />
-                    Poppy is a beautiful dog.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://elizabethpulles.art/media/posts/7/Most-beautiful-dogs.jpg" alt="" />
-                <p>Poppy is a <strong>beautiful</strong> dog.</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Patience</title>
         <author>

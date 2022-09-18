@@ -10,22 +10,6 @@
     },
     "items": [
         {
-            "id": "https://elizabethpulles.art/beautiful-bouviers/",
-            "url": "https://elizabethpulles.art/beautiful-bouviers/",
-            "title": "Beautiful Bouviers",
-            "summary": "Poppy is a beautiful dog.",
-            "content_html": "<p>Poppy is a <strong>beautiful</strong> dog.</p>",
-            "image": "https://elizabethpulles.art/media/posts/7/Most-beautiful-dogs.jpg",
-            "author": {
-                "name": "Elizabeth Pulles"
-            },
-            "tags": [
-                   "Dogs"
-            ],
-            "date_published": "2022-09-18T19:22:25+02:00",
-            "date_modified": "2022-09-18T19:23:37+02:00"
-        },
-        {
             "id": "https://elizabethpulles.art/patience/",
             "url": "https://elizabethpulles.art/patience/",
             "title": "Patience",
