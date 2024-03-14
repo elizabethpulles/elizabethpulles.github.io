@@ -10,82 +10,138 @@
     },
     "items": [
         {
-            "id": "https://elizabethpulles.art/patience/",
-            "url": "https://elizabethpulles.art/patience/",
-            "title": "Patience",
-            "image": "https://elizabethpulles.art/media/posts/5/5ffef9c0cfae94538e53f0b57802be21.jpg",
+            "id": "https://elizabethpulles.art/remembering/",
+            "url": "https://elizabethpulles.art/remembering/",
+            "title": "Remembering",
+            "image": "https://elizabethpulles.art/media/posts/20/2023.12.28-Poppy-I-miss-you.png",
             "author": {
                 "name": "Elizabeth Pulles"
             },
             "tags": [
-                   "Dogs"
             ],
-            "date_published": "2022-08-13T14:50:52+02:00",
-            "date_modified": "2022-08-13T14:50:58+02:00"
+            "date_published": "2024-03-14T16:10:25+02:00",
+            "date_modified": "2024-03-14T16:10:25+02:00"
         },
         {
-            "id": "https://elizabethpulles.art/how-to-illustrate-a-book/",
-            "url": "https://elizabethpulles.art/how-to-illustrate-a-book/",
-            "title": "How to paint",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere,&hellip;",
-            "content_html": "<div class=\"post__entry\">\n<div class=\"post__entry\">\n<div id=\"lipsum\">\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere, finibus nulla vel, feugiat sapien. Praesent mauris turpis, condimentum sed posuere non, vehicula consectetur tortor. Phasellus vestibulum semper felis et eleifend. Phasellus ut quam et nibh egestas sagittis. Vivamus in mauris ut mauris tristique faucibus. Duis pretium, neque et malesuada dignissim, purus ex commodo libero, eu maximus elit tortor eget justo. Maecenas elementum orci in ipsum luctus, a imperdiet risus tempor.</p>\n<p>Etiam ut dolor vitae ex luctus auctor ac eu nisl. Proin ac eros rhoncus, tempor ex vel, volutpat odio. Ut congue lacus arcu. Morbi pharetra id purus eu laoreet. Mauris at sollicitudin nisi, eget eleifend enim. Fusce tempor eget arcu in scelerisque. Vivamus cursus massa tellus, sit amet suscipit nulla viverra in. Integer imperdiet lectus eu ligula consequat, eu mattis justo ornare. Quisque dapibus odio eget ullamcorper tempus. Quisque massa ex, eleifend quis pharetra in, aliquam sed velit. Vestibulum non tellus non risus interdum fringilla quis et urna. Nulla ullamcorper, elit at faucibus maximus, quam leo facilisis ipsum, in tempor nisi massa ac quam. Suspendisse ligula nisi, posuere vitae suscipit at, pharetra a turpis. Fusce molestie, mi quis convallis lacinia, nisl purus iaculis velit, eu tincidunt massa turpis eget neque.</p>\n<p>Etiam nec velit sit amet enim ullamcorper faucibus et vel nunc. Aliquam eleifend eros velit, at lacinia magna ultrices non. Sed pulvinar lacus quis urna ultricies congue. Aliquam sapien dui, ultricies at ullamcorper sit amet, facilisis et nisi. Maecenas ac imperdiet lacus. Aenean nunc turpis, sollicitudin non erat et, posuere ultrices libero. Donec sagittis nisi eu nunc molestie vehicula. Praesent accumsan vestibulum auctor.</p>\n<p>Curabitur auctor arcu placerat volutpat rutrum. Suspendisse eu risus lacus. Praesent quis lobortis magna, ut consequat orci. Cras tortor arcu, lacinia sit amet augue sit amet, tempor laoreet dolor. Duis at diam ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis ullamcorper consectetur tristique. Donec augue tellus, commodo nec odio quis, malesuada porta risus. Cras maximus et justo porta consectetur. Cras blandit rhoncus erat id tempus. Suspendisse fringilla molestie enim, sit amet vehicula arcu ullamcorper sed. Curabitur gravida dictum dignissim.</p>\n<p>Suspendisse at nibh convallis, tincidunt augue in, eleifend metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida orci at arcu ornare, eget luctus mi lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas et auctor turpis, in scelerisque ligula. Quisque iaculis dictum ligula, vel fringilla nisi finibus ac. Sed interdum blandit cursus.</p>\n</div>\n</div>\n</div>",
-            "image": "https://elizabethpulles.art/media/posts/4/Caillebotte_-_The_Painter_Morot_in_His_Studio_circa_1874.jpg",
+            "id": "https://elizabethpulles.art/life-in-pictures-11/",
+            "url": "https://elizabethpulles.art/life-in-pictures-11/",
+            "title": "Life in pictures 11",
+            "image": "https://elizabethpulles.art/media/posts/18/2023-24-Sept-Good-morning-poppy-strip-2-2.png",
             "author": {
                 "name": "Elizabeth Pulles"
             },
             "tags": [
-                   "Blog"
             ],
-            "date_published": "2022-08-13T14:08:34+02:00",
-            "date_modified": "2022-08-13T14:17:22+02:00"
+            "date_published": "2023-09-25T12:17:58+02:00",
+            "date_modified": "2024-03-14T15:59:53+02:00"
         },
         {
-            "id": "https://elizabethpulles.art/siyolos-jersey/",
-            "url": "https://elizabethpulles.art/siyolos-jersey/",
-            "title": "Siyolo&#x27;s Jersey",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere,&hellip;",
-            "content_html": "<div class=\"post__entry\">\n<div id=\"lipsum\">\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere, finibus nulla vel, feugiat sapien. Praesent mauris turpis, condimentum sed posuere non, vehicula consectetur tortor. Phasellus vestibulum semper felis et eleifend. Phasellus ut quam et nibh egestas sagittis. Vivamus in mauris ut mauris tristique faucibus. Duis pretium, neque et malesuada dignissim, purus ex commodo libero, eu maximus elit tortor eget justo. Maecenas elementum orci in ipsum luctus, a imperdiet risus tempor.</p>\n<p>Etiam ut dolor vitae ex luctus auctor ac eu nisl. Proin ac eros rhoncus, tempor ex vel, volutpat odio. Ut congue lacus arcu. Morbi pharetra id purus eu laoreet. Mauris at sollicitudin nisi, eget eleifend enim. Fusce tempor eget arcu in scelerisque. Vivamus cursus massa tellus, sit amet suscipit nulla viverra in. Integer imperdiet lectus eu ligula consequat, eu mattis justo ornare. Quisque dapibus odio eget ullamcorper tempus. Quisque massa ex, eleifend quis pharetra in, aliquam sed velit. Vestibulum non tellus non risus interdum fringilla quis et urna. Nulla ullamcorper, elit at faucibus maximus, quam leo facilisis ipsum, in tempor nisi massa ac quam. Suspendisse ligula nisi, posuere vitae suscipit at, pharetra a turpis. Fusce molestie, mi quis convallis lacinia, nisl purus iaculis velit, eu tincidunt massa turpis eget neque.</p>\n<p>Etiam nec velit sit amet enim ullamcorper faucibus et vel nunc. Aliquam eleifend eros velit, at lacinia magna ultrices non. Sed pulvinar lacus quis urna ultricies congue. Aliquam sapien dui, ultricies at ullamcorper sit amet, facilisis et nisi. Maecenas ac imperdiet lacus. Aenean nunc turpis, sollicitudin non erat et, posuere ultrices libero. Donec sagittis nisi eu nunc molestie vehicula. Praesent accumsan vestibulum auctor.</p>\n<p>Curabitur auctor arcu placerat volutpat rutrum. Suspendisse eu risus lacus. Praesent quis lobortis magna, ut consequat orci. Cras tortor arcu, lacinia sit amet augue sit amet, tempor laoreet dolor. Duis at diam ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis ullamcorper consectetur tristique. Donec augue tellus, commodo nec odio quis, malesuada porta risus. Cras maximus et justo porta consectetur. Cras blandit rhoncus erat id tempus. Suspendisse fringilla molestie enim, sit amet vehicula arcu ullamcorper sed. Curabitur gravida dictum dignissim.</p>\n<p>Suspendisse at nibh convallis, tincidunt augue in, eleifend metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida orci at arcu ornare, eget luctus mi lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas et auctor turpis, in scelerisque ligula. Quisque iaculis dictum ligula, vel fringilla nisi finibus ac. Sed interdum blandit cursus.</p>\n</div>\n</div>",
-            "image": "https://elizabethpulles.art/media/posts/3/8ff93f9f47720d6fe2c6c5e41a3dcdfa.jpg",
+            "id": "https://elizabethpulles.art/life-in-pictures-10/",
+            "url": "https://elizabethpulles.art/life-in-pictures-10/",
+            "title": "Life in pictures 10",
+            "image": "https://elizabethpulles.art/media/posts/17/poppy-strip-2.png",
             "author": {
                 "name": "Elizabeth Pulles"
             },
             "tags": [
-                   "Books"
             ],
-            "date_published": "2022-08-13T14:06:54+02:00",
-            "date_modified": "2022-08-13T14:06:54+02:00"
+            "date_published": "2023-09-22T13:40:08+02:00",
+            "date_modified": "2024-03-14T16:00:24+02:00"
         },
         {
-            "id": "https://elizabethpulles.art/midnight-cat/",
-            "url": "https://elizabethpulles.art/midnight-cat/",
-            "title": "Midnight Cat",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere,&hellip;",
-            "content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere, finibus nulla vel, feugiat sapien. Praesent mauris turpis, condimentum sed posuere non, vehicula consectetur tortor. Phasellus vestibulum semper felis et eleifend. Phasellus ut quam et nibh egestas sagittis. Vivamus in mauris ut mauris tristique faucibus. Duis pretium, neque et malesuada dignissim, purus ex commodo libero, eu maximus elit tortor eget justo. Maecenas elementum orci in ipsum luctus, a imperdiet risus tempor.</p>\n<p>Etiam ut dolor vitae ex luctus auctor ac eu nisl. Proin ac eros rhoncus, tempor ex vel, volutpat odio. Ut congue lacus arcu. Morbi pharetra id purus eu laoreet. Mauris at sollicitudin nisi, eget eleifend enim. Fusce tempor eget arcu in scelerisque. Vivamus cursus massa tellus, sit amet suscipit nulla viverra in. Integer imperdiet lectus eu ligula consequat, eu mattis justo ornare. Quisque dapibus odio eget ullamcorper tempus. Quisque massa ex, eleifend quis pharetra in, aliquam sed velit. Vestibulum non tellus non risus interdum fringilla quis et urna. Nulla ullamcorper, elit at faucibus maximus, quam leo facilisis ipsum, in tempor nisi massa ac quam. Suspendisse ligula nisi, posuere vitae suscipit at, pharetra a turpis. Fusce molestie, mi quis convallis lacinia, nisl purus iaculis velit, eu tincidunt massa turpis eget neque.</p>\n<p>Etiam nec velit sit amet enim ullamcorper faucibus et vel nunc. Aliquam eleifend eros velit, at lacinia magna ultrices non. Sed pulvinar lacus quis urna ultricies congue. Aliquam sapien dui, ultricies at ullamcorper sit amet, facilisis et nisi. Maecenas ac imperdiet lacus. Aenean nunc turpis, sollicitudin non erat et, posuere ultrices libero. Donec sagittis nisi eu nunc molestie vehicula. Praesent accumsan vestibulum auctor.</p>\n<p>Curabitur auctor arcu placerat volutpat rutrum. Suspendisse eu risus lacus. Praesent quis lobortis magna, ut consequat orci. Cras tortor arcu, lacinia sit amet augue sit amet, tempor laoreet dolor. Duis at diam ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis ullamcorper consectetur tristique. Donec augue tellus, commodo nec odio quis, malesuada porta risus. Cras maximus et justo porta consectetur. Cras blandit rhoncus erat id tempus. Suspendisse fringilla molestie enim, sit amet vehicula arcu ullamcorper sed. Curabitur gravida dictum dignissim.</p>\n<p>Suspendisse at nibh convallis, tincidunt augue in, eleifend metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida orci at arcu ornare, eget luctus mi lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas et auctor turpis, in scelerisque ligula. Quisque iaculis dictum ligula, vel fringilla nisi finibus ac. Sed interdum blandit cursus.</p>",
-            "image": "https://elizabethpulles.art/media/posts/2/51rgvktNCUL._SX379_BO1204203200_.jpg",
+            "id": "https://elizabethpulles.art/life-in-pictures-9/",
+            "url": "https://elizabethpulles.art/life-in-pictures-9/",
+            "title": "Life in pictures 9",
+            "summary": "<p> </p>\n<p>It is a BIG dog. One can touch, just don't shriek and pull your hand away at same time. She is very gentle.</p>\n",
+            "content_html": "<p> </p>\n<p>It is a BIG dog. One can touch, just don't shriek and pull your hand away at same time. She is very gentle.</p>\n\n<p> </p>",
+            "image": "https://elizabethpulles.art/media/posts/16/SinglePageA4300DPI-2.png",
             "author": {
                 "name": "Elizabeth Pulles"
             },
             "tags": [
-                   "Books"
             ],
-            "date_published": "2022-08-13T14:05:14+02:00",
-            "date_modified": "2022-08-13T14:05:14+02:00"
+            "date_published": "2023-08-07T12:29:24+02:00",
+            "date_modified": "2024-03-14T16:00:42+02:00"
         },
         {
-            "id": "https://elizabethpulles.art/test-blog-post/",
-            "url": "https://elizabethpulles.art/test-blog-post/",
-            "title": "Dudu&#x27;s Basket",
-            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere,&hellip;",
-            "content_html": "<div id=\"lipsum\">\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget eros posuere, finibus nulla vel, feugiat sapien. Praesent mauris turpis, condimentum sed posuere non, vehicula consectetur tortor. Phasellus vestibulum semper felis et eleifend. Phasellus ut quam et nibh egestas sagittis. Vivamus in mauris ut mauris tristique faucibus. Duis pretium, neque et malesuada dignissim, purus ex commodo libero, eu maximus elit tortor eget justo. Maecenas elementum orci in ipsum luctus, a imperdiet risus tempor.</p>\n<p>Etiam ut dolor vitae ex luctus auctor ac eu nisl. Proin ac eros rhoncus, tempor ex vel, volutpat odio. Ut congue lacus arcu. Morbi pharetra id purus eu laoreet. Mauris at sollicitudin nisi, eget eleifend enim. Fusce tempor eget arcu in scelerisque. Vivamus cursus massa tellus, sit amet suscipit nulla viverra in. Integer imperdiet lectus eu ligula consequat, eu mattis justo ornare. Quisque dapibus odio eget ullamcorper tempus. Quisque massa ex, eleifend quis pharetra in, aliquam sed velit. Vestibulum non tellus non risus interdum fringilla quis et urna. Nulla ullamcorper, elit at faucibus maximus, quam leo facilisis ipsum, in tempor nisi massa ac quam. Suspendisse ligula nisi, posuere vitae suscipit at, pharetra a turpis. Fusce molestie, mi quis convallis lacinia, nisl purus iaculis velit, eu tincidunt massa turpis eget neque.</p>\n<p>Etiam nec velit sit amet enim ullamcorper faucibus et vel nunc. Aliquam eleifend eros velit, at lacinia magna ultrices non. Sed pulvinar lacus quis urna ultricies congue. Aliquam sapien dui, ultricies at ullamcorper sit amet, facilisis et nisi. Maecenas ac imperdiet lacus. Aenean nunc turpis, sollicitudin non erat et, posuere ultrices libero. Donec sagittis nisi eu nunc molestie vehicula. Praesent accumsan vestibulum auctor.</p>\n<p>Curabitur auctor arcu placerat volutpat rutrum. Suspendisse eu risus lacus. Praesent quis lobortis magna, ut consequat orci. Cras tortor arcu, lacinia sit amet augue sit amet, tempor laoreet dolor. Duis at diam ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis ullamcorper consectetur tristique. Donec augue tellus, commodo nec odio quis, malesuada porta risus. Cras maximus et justo porta consectetur. Cras blandit rhoncus erat id tempus. Suspendisse fringilla molestie enim, sit amet vehicula arcu ullamcorper sed. Curabitur gravida dictum dignissim.</p>\n<p>Suspendisse at nibh convallis, tincidunt augue in, eleifend metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam gravida orci at arcu ornare, eget luctus mi lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas et auctor turpis, in scelerisque ligula. Quisque iaculis dictum ligula, vel fringilla nisi finibus ac. Sed interdum blandit cursus.</p>\n</div>",
-            "image": "https://elizabethpulles.art/media/posts/1/DUDU-BASKET-COV-ENG-HR-RGB-1.jpg",
+            "id": "https://elizabethpulles.art/life-in-pictures-7-2/",
+            "url": "https://elizabethpulles.art/life-in-pictures-7-2/",
+            "title": "Life in Pictures 7",
+            "summary": "There we were, on a July morning, waiting for coffee and dog&hellip;",
+            "content_html": "<p>There we were, on a July morning, waiting for coffee and dog treats. </p>\n<p> </p>",
+            "image": "https://elizabethpulles.art/media/posts/15/wtjfjtr5-2.bmp",
             "author": {
                 "name": "Elizabeth Pulles"
             },
             "tags": [
-                   "Books"
             ],
-            "date_published": "2022-08-13T13:32:27+02:00",
-            "date_modified": "2022-08-13T13:50:12+02:00"
+            "date_published": "2023-08-07T10:51:09+02:00",
+            "date_modified": "2024-03-14T16:01:22+02:00"
+        },
+        {
+            "id": "https://elizabethpulles.art/life-in-pictures-7/",
+            "url": "https://elizabethpulles.art/life-in-pictures-7/",
+            "title": "Life in pictures",
+            "image": "https://elizabethpulles.art/media/posts/14/2023-3-August-poppy-2.png",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-02T16:15:10+02:00",
+            "date_modified": "2024-03-14T16:02:00+02:00"
+        },
+        {
+            "id": "https://elizabethpulles.art/life-in-pictures-6/",
+            "url": "https://elizabethpulles.art/life-in-pictures-6/",
+            "title": "Life in pictures",
+            "image": "https://elizabethpulles.art/media/posts/13/2023-16-July-poppy-melville-Shisa-2.png",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-18T14:42:47+02:00",
+            "date_modified": "2024-03-14T16:02:34+02:00"
+        },
+        {
+            "id": "https://elizabethpulles.art/life-in-pictures-5/",
+            "url": "https://elizabethpulles.art/life-in-pictures-5/",
+            "title": "Life in pictures 5",
+            "image": "https://elizabethpulles.art/media/posts/12/2023-15-July-poppy-and-liz-watches-Tess-2.png",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-18T14:42:02+02:00",
+            "date_modified": "2024-03-14T16:03:07+02:00"
+        },
+        {
+            "id": "https://elizabethpulles.art/life-in-pictures-4/",
+            "url": "https://elizabethpulles.art/life-in-pictures-4/",
+            "title": "Life in pictures 4",
+            "image": "https://elizabethpulles.art/media/posts/11/2023-9-July-Poppy-blog-3-2.png",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-18T14:41:08+02:00",
+            "date_modified": "2024-03-14T16:03:35+02:00"
+        },
+        {
+            "id": "https://elizabethpulles.art/life-in-pictures-3/",
+            "url": "https://elizabethpulles.art/life-in-pictures-3/",
+            "title": "Life in pictures 3",
+            "image": "https://elizabethpulles.art/media/posts/10/2023-8-July-Poppy-blog.png",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-18T14:38:35+02:00",
+            "date_modified": "2024-03-14T16:04:02+02:00"
         }
     ]
 }
