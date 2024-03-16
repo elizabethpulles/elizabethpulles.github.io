@@ -3,12 +3,82 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2024-03-14T16:10:25+02:00</updated>
+    <updated>2024-03-16T18:42:20+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
     <id>https://elizabethpulles.art</id>
 
+    <entry>
+        <title>Hi Zoleka</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/hi-zoleka/"/>
+        <id>https://elizabethpulles.art/hi-zoleka/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/25/Hi-Zoleka.jpeg" medium="image" />
+
+        <updated>2024-03-16T18:42:20+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Lulama&#x27;s Magic Blanket</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/lulamas-magic-blanket/"/>
+        <id>https://elizabethpulles.art/lulamas-magic-blanket/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/24/Lulamas-Magic-Blanket.jpg" medium="image" />
+
+        <updated>2024-03-16T18:40:47+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ster en die Skugter Vyf</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/ster-en-die-skugter-vyf/"/>
+        <id>https://elizabethpulles.art/ster-en-die-skugter-vyf/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/23/my-pic-books.png" medium="image" />
+
+        <updated>2024-03-16T18:28:28+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>The Joy Dancer</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/the-joy-dancer/"/>
+        <id>https://elizabethpulles.art/the-joy-dancer/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/22/Untitled.jpeg" medium="image" />
+
+        <updated>2024-03-16T18:27:14+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Musa&#x27;s Journey</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/musas-journey/"/>
+        <id>https://elizabethpulles.art/musas-journey/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/21/musa-2.jpg" medium="image" />
+
+        <updated>2024-03-16T18:25:03+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://elizabethpulles.art/media/posts/21/musa-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/21/musa.jpg" alt="" width="820" height="1000" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/21/responsive/musa-xs.jpg 300w ,https://elizabethpulles.art/media/posts/21/responsive/musa-sm.jpg 480w ,https://elizabethpulles.art/media/posts/21/responsive/musa-md.jpg 768w ,https://elizabethpulles.art/media/posts/21/responsive/musa-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Remembering</title>
         <author>
@@ -99,70 +169,5 @@
 <p> </p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Life in pictures</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-7/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-7/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/14/2023-3-August-poppy-2.png" medium="image" />
-
-        <updated>2023-08-02T16:15:10+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Life in pictures</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-6/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-6/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/13/2023-16-July-poppy-melville-Shisa-2.png" medium="image" />
-
-        <updated>2023-07-18T14:42:47+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Life in pictures 5</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-5/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-5/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/12/2023-15-July-poppy-and-liz-watches-Tess-2.png" medium="image" />
-
-        <updated>2023-07-18T14:42:02+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Life in pictures 4</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-4/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-4/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/11/2023-9-July-Poppy-blog-3-2.png" medium="image" />
-
-        <updated>2023-07-18T14:41:08+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Life in pictures 3</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-3/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-3/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/10/2023-8-July-Poppy-blog.png" medium="image" />
-
-        <updated>2023-07-18T14:38:35+02:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
