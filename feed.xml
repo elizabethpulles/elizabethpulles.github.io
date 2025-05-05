@@ -3,12 +3,34 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-05-05T17:39:41+02:00</updated>
+    <updated>2025-05-05T18:00:02+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
     <id>https://elizabethpulles.art</id>
 
+    <entry>
+        <title>Poppy le Bouvier- Melville</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/poppy-le-bouvier-melville/"/>
+        <id>https://elizabethpulles.art/poppy-le-bouvier-melville/</id>
+
+        <updated>2025-05-05T17:57:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Illustrated by Elizabeth Pulles Based on my own dog 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/29/2374Poppy-le-Bouvier-Melville-blog.png" alt="" width="1024" height="701" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-xs.png 300w ,https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-sm.png 480w ,https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-md.png 768w ,https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-lg.png 1024w"></figure>
+<p>Illustrated by Elizabeth Pulles</p>
+<p>Based on my own dog </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Together Apart</title>
         <author>
@@ -224,19 +246,6 @@
         <media:content url="https://elizabethpulles.art/media/posts/20/2023.12.28-Poppy-I-miss-you.png" medium="image" />
 
         <updated>2024-03-14T16:10:25+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Life in pictures 11</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-11/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-11/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/18/2023-24-Sept-Good-morning-poppy-strip-2-2.png" medium="image" />
-
-        <updated>2023-09-25T12:17:58+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
