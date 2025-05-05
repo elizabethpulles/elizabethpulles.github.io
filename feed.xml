@@ -3,12 +3,56 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2024-03-16T18:42:20+02:00</updated>
+    <updated>2025-05-05T16:57:12+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
     <id>https://elizabethpulles.art</id>
 
+    <entry>
+        <title>Together Apart</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/together-apart/"/>
+        <id>https://elizabethpulles.art/together-apart/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg" medium="image" />
+
+        <updated>2025-05-05T16:57:12+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/28/together-apart-inside.jpg" alt="" width="1500" height="1043" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-xs.jpg 300w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-sm.jpg 480w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-md.jpg 768w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Siyolo&#x27;s Jersey</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/siyolos-jersey-2/"/>
+        <id>https://elizabethpulles.art/siyolos-jersey-2/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/27/siyolo.jpg" medium="image" />
+
+        <updated>2025-05-05T16:56:35+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>African Mother Christmas</title>
+        <author>
+            <name>Elizabeth Pulles</name>
+        </author>
+        <link href="https://elizabethpulles.art/african-mother-christmas/"/>
+        <id>https://elizabethpulles.art/african-mother-christmas/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/26/african-mother.jpg" medium="image" />
+
+        <updated>2025-05-05T16:56:09+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Hi Zoleka</title>
         <author>
@@ -16,7 +60,7 @@
         </author>
         <link href="https://elizabethpulles.art/hi-zoleka/"/>
         <id>https://elizabethpulles.art/hi-zoleka/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/25/Hi-Zoleka.jpeg" medium="image" />
+        <media:content url="https://elizabethpulles.art/media/posts/25/zoleka.jpg" medium="image" />
 
         <updated>2024-03-16T18:42:20+02:00</updated>
             <summary></summary>
@@ -29,7 +73,7 @@
         </author>
         <link href="https://elizabethpulles.art/lulamas-magic-blanket/"/>
         <id>https://elizabethpulles.art/lulamas-magic-blanket/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/24/Lulamas-Magic-Blanket.jpg" medium="image" />
+        <media:content url="https://elizabethpulles.art/media/posts/24/tryllet.jpg" medium="image" />
 
         <updated>2024-03-16T18:40:47+02:00</updated>
             <summary></summary>
@@ -42,7 +86,7 @@
         </author>
         <link href="https://elizabethpulles.art/ster-en-die-skugter-vyf/"/>
         <id>https://elizabethpulles.art/ster-en-die-skugter-vyf/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/23/my-pic-books.png" medium="image" />
+        <media:content url="https://elizabethpulles.art/media/posts/23/ster.jpg" medium="image" />
 
         <updated>2024-03-16T18:28:28+02:00</updated>
             <summary></summary>
@@ -55,7 +99,7 @@
         </author>
         <link href="https://elizabethpulles.art/the-joy-dancer/"/>
         <id>https://elizabethpulles.art/the-joy-dancer/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/22/Untitled.jpeg" medium="image" />
+        <media:content url="https://elizabethpulles.art/media/posts/22/joy-dancer.jpg" medium="image" />
 
         <updated>2024-03-16T18:27:14+02:00</updated>
             <summary></summary>
@@ -104,70 +148,5 @@
         <updated>2023-09-25T12:17:58+02:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>Life in pictures 10</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-10/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-10/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/17/poppy-strip-2.png" medium="image" />
-
-        <updated>2023-09-22T13:40:08+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Life in pictures 9</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-9/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-9/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/16/SinglePageA4300DPI-2.png" medium="image" />
-
-        <updated>2023-08-07T12:29:24+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://elizabethpulles.art/media/posts/16/SinglePageA4300DPI-2.png" alt="" />
-                    <p> </p>
-<p>It is a BIG dog. One can touch, just don't shriek and pull your hand away at same time. She is very gentle.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://elizabethpulles.art/media/posts/16/SinglePageA4300DPI-2.png" class="type:primaryImage" alt="" /></p>
-                <p> </p>
-<p>It is a BIG dog. One can touch, just don't shriek and pull your hand away at same time. She is very gentle.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Life in Pictures 7</title>
-        <author>
-            <name>Elizabeth Pulles</name>
-        </author>
-        <link href="https://elizabethpulles.art/life-in-pictures-7-2/"/>
-        <id>https://elizabethpulles.art/life-in-pictures-7-2/</id>
-        <media:content url="https://elizabethpulles.art/media/posts/15/wtjfjtr5-2.bmp" medium="image" />
-
-        <updated>2023-08-07T10:51:09+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://elizabethpulles.art/media/posts/15/wtjfjtr5-2.bmp" alt="" />
-                    There we were, on a July morning, waiting for coffee and dog&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://elizabethpulles.art/media/posts/15/wtjfjtr5-2.bmp" class="type:primaryImage" alt="" /></p>
-                <p>There we were, on a July morning, waiting for coffee and dog treats. </p>
-<p> </p>
-            ]]>
-        </content>
     </entry>
 </feed>
