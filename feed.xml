@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-05-05T17:07:55+02:00</updated>
+    <updated>2025-05-05T17:12:12+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -50,13 +50,16 @@
             <summary>
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/27/siyolo.jpg" alt="" />
-                    Published by xyz
+                    Illustrated by Elizabeth Pulles Author: Mari Grobler Publisher: Tafelberg 2008 South Africa
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/27/siyolo.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-left">Published by xyz</p>
+                <p class="align-left">Illustrated by Elizabeth Pulles</p>
+<p>Author: Mari Grobler</p>
+<p>Publisher: Tafelberg 2008</p>
+<p>South Africa</p>
             ]]>
         </content>
     </entry>

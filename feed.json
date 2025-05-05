@@ -28,8 +28,8 @@
             "id": "https://elizabethpulles.art/siyolos-jersey-2/",
             "url": "https://elizabethpulles.art/siyolos-jersey-2/",
             "title": "Siyolo&#x27;s Jersey",
-            "summary": "Published by xyz",
-            "content_html": "<p class=\"align-left\">Published by xyz</p>",
+            "summary": "Illustrated by Elizabeth Pulles Author: Mari Grobler Publisher: Tafelberg 2008 South Africa",
+            "content_html": "<p class=\"align-left\">Illustrated by Elizabeth Pulles</p>\n<p>Author: Mari Grobler</p>\n<p>Publisher: Tafelberg 2008</p>\n<p>South Africa</p>",
             "image": "https://elizabethpulles.art/media/posts/27/siyolo.jpg",
             "author": {
                 "name": "Elizabeth Pulles"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2025-05-05T16:56:35+02:00",
-            "date_modified": "2025-05-05T17:01:17+02:00"
+            "date_modified": "2025-05-05T17:12:12+02:00"
         },
         {
             "id": "https://elizabethpulles.art/african-mother-christmas/",
