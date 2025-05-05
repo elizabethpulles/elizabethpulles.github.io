@@ -13,7 +13,8 @@
             "id": "https://elizabethpulles.art/together-apart/",
             "url": "https://elizabethpulles.art/together-apart/",
             "title": "Together Apart",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/28/together-apart-inside.jpg\" alt=\"\" width=\"1500\" height=\"1043\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-xs.jpg 300w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-sm.jpg 480w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-md.jpg 768w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-lg.jpg 1024w\"></figure>",
+            "summary": "The story of living in Apartheid Comics illustrated by Elizabeth Pulles Authors:&hellip;",
+            "content_html": "<p>The story of living in Apartheid</p>\n<p>Comics illustrated by Elizabeth Pulles</p>\n<p>Authors: Xolisa Guzula and Athambile Masola</p>\n<p>Publisher: Jacana Media 2024</p>\n<p>South Africa</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/28/together-apart-inside.jpg\" alt=\"\" width=\"1500\" height=\"1043\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-xs.jpg 300w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-sm.jpg 480w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-md.jpg 768w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-lg.jpg 1024w\"></figure>",
             "image": "https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg",
             "author": {
                 "name": "Elizabeth Pulles"
@@ -21,12 +22,14 @@
             "tags": [
             ],
             "date_published": "2025-05-05T16:57:12+02:00",
-            "date_modified": "2025-05-05T16:57:12+02:00"
+            "date_modified": "2025-05-05T17:07:55+02:00"
         },
         {
             "id": "https://elizabethpulles.art/siyolos-jersey-2/",
             "url": "https://elizabethpulles.art/siyolos-jersey-2/",
             "title": "Siyolo&#x27;s Jersey",
+            "summary": "Published by xyz",
+            "content_html": "<p class=\"align-left\">Published by xyz</p>",
             "image": "https://elizabethpulles.art/media/posts/27/siyolo.jpg",
             "author": {
                 "name": "Elizabeth Pulles"
@@ -34,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2025-05-05T16:56:35+02:00",
-            "date_modified": "2025-05-05T16:56:35+02:00"
+            "date_modified": "2025-05-05T17:01:17+02:00"
         },
         {
             "id": "https://elizabethpulles.art/african-mother-christmas/",

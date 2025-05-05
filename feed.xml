@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-05-05T16:57:12+02:00</updated>
+    <updated>2025-05-05T17:07:55+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -19,11 +19,21 @@
         <media:content url="https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg" medium="image" />
 
         <updated>2025-05-05T16:57:12+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg" alt="" />
+                    The story of living in Apartheid Comics illustrated by Elizabeth Pulles Authors:&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/28/together-apart-inside.jpg" alt="" width="1500" height="1043" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-xs.jpg 300w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-sm.jpg 480w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-md.jpg 768w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-lg.jpg 1024w"></figure>
+                <p>The story of living in Apartheid</p>
+<p>Comics illustrated by Elizabeth Pulles</p>
+<p>Authors: Xolisa Guzula and Athambile Masola</p>
+<p>Publisher: Jacana Media 2024</p>
+<p>South Africa</p>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/28/together-apart-inside.jpg" alt="" width="1500" height="1043" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-xs.jpg 300w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-sm.jpg 480w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-md.jpg 768w ,https://elizabethpulles.art/media/posts/28/responsive/together-apart-inside-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -37,8 +47,18 @@
         <media:content url="https://elizabethpulles.art/media/posts/27/siyolo.jpg" medium="image" />
 
         <updated>2025-05-05T16:56:35+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://elizabethpulles.art/media/posts/27/siyolo.jpg" alt="" />
+                    Published by xyz
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://elizabethpulles.art/media/posts/27/siyolo.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-left">Published by xyz</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>African Mother Christmas</title>
