@@ -88,6 +88,8 @@
             "id": "https://elizabethpulles.art/ster-en-die-skugter-vyf/",
             "url": "https://elizabethpulles.art/ster-en-die-skugter-vyf/",
             "title": "Ster en die Skugter Vyf",
+            "summary": "Illustrated by Elizabeth Pulles Author: Henriette Linde-Loubser Publisher: Tafelberg 2020",
+            "content_html": "<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Henriette Linde-Loubser</p>\n<p>Publisher: Tafelberg 2020 </p>\n<p> </p>",
             "image": "https://elizabethpulles.art/media/posts/23/ster.jpg",
             "author": {
                 "name": "Elizabeth Pulles"
@@ -95,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2024-03-16T18:28:28+02:00",
-            "date_modified": "2025-05-05T16:32:05+02:00"
+            "date_modified": "2025-05-05T17:31:12+02:00"
         },
         {
             "id": "https://elizabethpulles.art/the-joy-dancer/",

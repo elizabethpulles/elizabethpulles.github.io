@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-05-05T17:26:49+02:00</updated>
+    <updated>2025-05-05T17:31:12+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -151,8 +151,21 @@
         <media:content url="https://elizabethpulles.art/media/posts/23/ster.jpg" medium="image" />
 
         <updated>2024-03-16T18:28:28+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://elizabethpulles.art/media/posts/23/ster.jpg" alt="" />
+                    Illustrated by Elizabeth Pulles Author: Henriette Linde-Loubser Publisher: Tafelberg 2020
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://elizabethpulles.art/media/posts/23/ster.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Illustrated by Elizabeth Pulles</p>
+<p>Author: Henriette Linde-Loubser</p>
+<p>Publisher: Tafelberg 2020 </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>The Joy Dancer</title>
