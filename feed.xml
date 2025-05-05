@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-05-05T17:31:12+02:00</updated>
+    <updated>2025-05-05T17:39:41+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -177,8 +177,20 @@
         <media:content url="https://elizabethpulles.art/media/posts/22/joy-dancer.jpg" medium="image" />
 
         <updated>2024-03-16T18:27:14+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://elizabethpulles.art/media/posts/22/joy-dancer.jpg" alt="" />
+                    Illustrated by Elizabeth Pulles Authors: Gregory Maqoma and Gcina Mhlophe Publisher: Jacana&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://elizabethpulles.art/media/posts/22/joy-dancer.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Illustrated by Elizabeth Pulles</p>
+<p>Authors: Gregory Maqoma and Gcina Mhlophe</p>
+<p>Publisher: Jacana Media 2023</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Musa&#x27;s Journey</title>
@@ -194,7 +206,11 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/21/musa-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/21/musa.jpg" alt="" width="820" height="1000" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/21/responsive/musa-xs.jpg 300w ,https://elizabethpulles.art/media/posts/21/responsive/musa-sm.jpg 480w ,https://elizabethpulles.art/media/posts/21/responsive/musa-md.jpg 768w ,https://elizabethpulles.art/media/posts/21/responsive/musa-lg.jpg 1024w"></figure>
+                
+<p>Illustrated by Elizabeth Pulles</p>
+<p>Author: Mari Grobler</p>
+<p>Publisher: Tafelberg 1997                Dansk Uitgave: "Gaver til Mor" ;</p>
+<p>                                                         Forlaget Hjulet 1997</p>
             ]]>
         </content>
     </entry>
