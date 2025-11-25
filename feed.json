@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://elizabethpulles.art/thokozani-the-eland/",
+            "url": "https://elizabethpulles.art/thokozani-the-eland/",
+            "title": "Thokozani the Eland",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/30/Thokozani-front-cover.jpeg\" alt=\"\" width=\"1120\" height=\"1600\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-md.jpeg 768w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-lg.jpeg 1024w\"></figure>",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-25T16:07:38+02:00",
+            "date_modified": "2025-11-25T17:50:10+02:00"
+        },
+        {
             "id": "https://elizabethpulles.art/poppy-le-bouvier-melville/",
             "url": "https://elizabethpulles.art/poppy-le-bouvier-melville/",
             "title": "Poppy le Bouvier- Melville",
@@ -141,19 +154,6 @@
             ],
             "date_published": "2024-03-16T18:25:03+02:00",
             "date_modified": "2025-05-05T17:39:41+02:00"
-        },
-        {
-            "id": "https://elizabethpulles.art/remembering/",
-            "url": "https://elizabethpulles.art/remembering/",
-            "title": "Remembering",
-            "image": "https://elizabethpulles.art/media/posts/20/2023.12.28-Poppy-I-miss-you.png",
-            "author": {
-                "name": "Elizabeth Pulles"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-14T16:10:25+02:00",
-            "date_modified": "2024-03-14T16:10:25+02:00"
         }
     ]
 }
