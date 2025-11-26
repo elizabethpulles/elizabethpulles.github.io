@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-25T17:58:24+02:00</updated>
+    <updated>2025-11-26T12:28:05+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -23,7 +23,17 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/30/WhatsApp-Image-2025-11-25-at-16.29.37-2.jpeg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/30/Thokozani-front-cover.jpeg" alt="" width="1120" height="1600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-md.jpeg 768w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-lg.jpeg 1024w"></figure>
+                
+<p class="msg msg--info">Illustrations by Elizabeth Pulles</p>
+<p>Author: Gcina Mhlophe</p>
+<p>Publisher: Jacana Media 2025</p>
+<p>Available in English and Zulu</p>
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://elizabethpulles.art/media/posts/30/gallery/trip.jpeg" data-size="1600x1200"><img loading="lazy" src="https://elizabethpulles.art/media/posts/30/gallery/trip-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://elizabethpulles.art/media/posts/30/gallery/WhatsApp-Image-2025-11-25-at-16.29.37.jpeg" data-size="1600x1200"><img loading="lazy" src="https://elizabethpulles.art/media/posts/30/gallery/WhatsApp-Image-2025-11-25-at-16.29.37-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
+</div></div>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/30/Thokozani-front-cover.jpeg" alt="" width="1120" height="1600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-md.jpeg 768w ,https://elizabethpulles.art/media/posts/30/responsive/Thokozani-front-cover-lg.jpeg 1024w"></figure>
             ]]>
         </content>
     </entry>
