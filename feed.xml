@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-26T15:02:43+02:00</updated>
+    <updated>2025-11-26T15:13:03+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -58,16 +58,19 @@
         </author>
         <link href="https://elizabethpulles.art/poppy-le-bouvier-melville/"/>
         <id>https://elizabethpulles.art/poppy-le-bouvier-melville/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" medium="image" />
 
         <updated>2025-05-05T17:57:05+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" alt="" />
                     Illustrated by Elizabeth Pulles Based on my own dog 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/29/2374Poppy-le-Bouvier-Melville-blog.png" alt="" width="1024" height="701" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-xs.png 300w ,https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-sm.png 480w ,https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-md.png 768w ,https://elizabethpulles.art/media/posts/29/responsive/2374Poppy-le-Bouvier-Melville-blog-lg.png 1024w"></figure>
+                    <p><img src="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" alt="" width="5008" height="3425" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-xs.png 300w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-sm.png 480w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-md.png 768w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-lg.png 1024w"></figure>
 <p>Illustrated by Elizabeth Pulles</p>
 <p>Based on my own dog </p>
             ]]>
