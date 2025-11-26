@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-26T15:13:03+02:00</updated>
+    <updated>2025-11-26T15:22:54+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -123,10 +123,18 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/27/siyolo.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="align-left">Illustrated by Elizabeth Pulles</p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://elizabethpulles.art/media/posts/27/gallery/WhatsApp-Image-2025-11-26-at-14.49.34-1.jpeg" data-size="1600x1038"><img loading="lazy" src="https://elizabethpulles.art/media/posts/27/gallery/WhatsApp-Image-2025-11-26-at-14.49.34-1-thumbnail.jpeg" alt="" width="768" height="498"></a></figure>
+</div></div>
+<p class="align-left">Illustrated by Elizabeth Pulles</p>
 <p>Author: Mari Grobler</p>
 <p>Publisher: Tafelberg 2008</p>
 <p>South Africa</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/27/WhatsApp-Image-2025-11-26-at-14.49.34.jpeg" alt="" width="1600" height="1009" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.34-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.34-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.34-md.jpeg 768w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.34-lg.jpeg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/27/WhatsApp-Image-2025-11-26-at-14.49.33-4.jpeg" alt="" width="1600" height="1020" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-4-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-4-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-4-md.jpeg 768w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-4-lg.jpeg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/27/WhatsApp-Image-2025-11-26-at-14.49.33-3.jpeg" alt="" width="1600" height="1013" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-3-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-3-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-3-md.jpeg 768w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-3-lg.jpeg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/27/WhatsApp-Image-2025-11-26-at-14.49.33-2.jpeg" alt="" width="1600" height="1029" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/27/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-lg.jpeg 1024w"></figure>
             ]]>
         </content>
     </entry>
