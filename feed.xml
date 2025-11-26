@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-26T16:02:03+02:00</updated>
+    <updated>2025-11-26T17:06:35+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -184,10 +184,14 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/25/zoleka.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Illustrated by Elizabeth Pulles</p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images" data-columns="3"> </div></div>
+<p>Illustrated by Elizabeth Pulles</p>
 <p>Author: Gcina Mhlophe</p>
 <p>Publisher: David Philip 1994</p>
 <p>South Africa</p>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/25/WhatsApp-Image-2025-11-26-at-14.49.36-2.jpeg" alt="" width="1600" height="642" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-lg.jpeg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/25/WhatsApp-Image-2025-11-26-at-14.49.35-4.jpeg" alt="" width="1600" height="671" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-md.jpeg 768w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-lg.jpeg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/25/WhatsApp-Image-2025-11-26-at-14.49.36-2-2.jpeg" alt="" width="1600" height="674" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-lg.jpeg 1024w"></figure>
             ]]>
         </content>
     </entry>
