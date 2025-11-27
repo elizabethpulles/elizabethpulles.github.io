@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-27T16:47:08+02:00</updated>
+    <updated>2025-11-27T16:50:29+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -264,7 +264,13 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/23/ster.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Illustrated by Elizabeth Pulles</p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images">
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/23/WhatsApp-Image-2025-11-26-at-14.49.32-2.jpeg" alt="" width="1200" height="1600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-lg.jpeg 1024w"></figure>
+</div></div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images">
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/23/WhatsApp-Image-2025-11-26-at-14.49.32-1.jpeg" alt="" width="1076" height="1600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-md.jpeg 768w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-lg.jpeg 1024w"></figure>
+</div></div>
+<p>Illustrated by Elizabeth Pulles</p>
 <p>Author: Henriette Linde-Loubser</p>
 <p>Publisher: Tafelberg 2020 </p>
 <p> </p>

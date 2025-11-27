@@ -119,7 +119,7 @@
             "url": "https://elizabethpulles.art/ster-en-die-skugter-vyf/",
             "title": "Ster en die Skugter Vyf",
             "summary": "Illustrated by Elizabeth Pulles Author: Henriette Linde-Loubser Publisher: Tafelberg 2020",
-            "content_html": "<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Henriette Linde-Loubser</p>\n<p>Publisher: Tafelberg 2020 </p>\n<p> </p>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/23/WhatsApp-Image-2025-11-26-at-14.49.32-2.jpeg\" alt=\"\" width=\"1200\" height=\"1600\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-2-lg.jpeg 1024w\"></figure>\n</div></div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/23/WhatsApp-Image-2025-11-26-at-14.49.32-1.jpeg\" alt=\"\" width=\"1076\" height=\"1600\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-md.jpeg 768w ,https://elizabethpulles.art/media/posts/23/responsive/WhatsApp-Image-2025-11-26-at-14.49.32-1-lg.jpeg 1024w\"></figure>\n</div></div>\n<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Henriette Linde-Loubser</p>\n<p>Publisher: Tafelberg 2020 </p>\n<p> </p>",
             "image": "https://elizabethpulles.art/media/posts/23/ster.jpg",
             "author": {
                 "name": "Elizabeth Pulles"
@@ -127,7 +127,7 @@
             "tags": [
             ],
             "date_published": "2024-03-16T18:28:28+02:00",
-            "date_modified": "2025-05-05T17:31:12+02:00"
+            "date_modified": "2025-11-27T16:50:29+02:00"
         },
         {
             "id": "https://elizabethpulles.art/the-joy-dancer/",
