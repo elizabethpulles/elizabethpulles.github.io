@@ -145,17 +145,19 @@
             "date_modified": "2025-11-27T16:54:36+02:00"
         },
         {
-            "id": "https://elizabethpulles.art/remembering/",
-            "url": "https://elizabethpulles.art/remembering/",
-            "title": "Remembering",
-            "image": "https://elizabethpulles.art/media/posts/20/2023.12.28-Poppy-I-miss-you.png",
+            "id": "https://elizabethpulles.art/musas-journey/",
+            "url": "https://elizabethpulles.art/musas-journey/",
+            "title": "Musa&#x27;s Journey",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-2.jpeg\" data-size=\"1600x1029\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"494\"></a></figure>\n</div></div>\n",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-2.jpeg\" data-size=\"1600x1029\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"494\"></a></figure>\n</div></div>\n\n<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Mari Grobler</p>\n<p>Publisher: Tafelberg 1997                Dansk Uitgave: \"Gaver til Mor\" ;</p>\n<p>                                                         Forlaget Hjulet 1997</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-4.jpeg\" data-size=\"1600x1020\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-4-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"490\"></a></figure>\n</div></div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-3.jpeg\" data-size=\"1600x1013\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-3-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"486\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.34.jpeg\" data-size=\"1600x1009\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.34-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"484\"></a></figure>\n</div></div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.34-1-2.jpeg\" data-size=\"1600x1038\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/21/gallery/WhatsApp-Image-2025-11-26-at-14.49.34-1-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"498\"></a></figure>\n</div></div>",
+            "image": "https://elizabethpulles.art/media/posts/21/musa-2.jpg",
             "author": {
                 "name": "Elizabeth Pulles"
             },
             "tags": [
             ],
-            "date_published": "2024-03-14T16:10:25+02:00",
-            "date_modified": "2024-03-14T16:10:25+02:00"
+            "date_published": "2024-03-16T18:25:03+02:00",
+            "date_modified": "2025-11-27T16:57:43+02:00"
         }
     ]
 }
