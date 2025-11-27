@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-27T16:30:07+02:00</updated>
+    <updated>2025-11-27T16:36:54+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -220,10 +220,15 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/24/tryllet.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Illustrated by Elizabeth Pulles</p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images">
+<div class="gallery"  data-is-empty="true" data-translation="Add images">
+<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/24/WhatsApp-Image-2025-11-26-at-14.49.33-1.jpeg" alt="" width="1600" height="1042" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-md.jpeg 768w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-lg.jpeg 1024w"></figure>
+</div></div>
+</div>
+<p>Illustrated by Elizabeth Pulles</p>
 <p>Author: Mari Grobler</p>
 <p>Publisher: Tafelberg 1997 South Africa                  Dansk udgave; "Trylleteppet"                                                                                              Forlaget Hjulet 1997</p>
-<p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
             ]]>
         </content>
     </entry>

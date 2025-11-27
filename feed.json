@@ -104,7 +104,7 @@
             "url": "https://elizabethpulles.art/lulamas-magic-blanket/",
             "title": "Lulama&#x27;s Magic Blanket",
             "summary": "Illustrated by Elizabeth Pulles Author: Mari Grobler Publisher: Tafelberg 1997 South Africa&hellip;",
-            "content_html": "<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Mari Grobler</p>\n<p>Publisher: Tafelberg 1997 South Africa                  Dansk udgave; \"Trylleteppet\"                                                                                              Forlaget Hjulet 1997</p>\n<p> </p>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\">\n<div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/24/WhatsApp-Image-2025-11-26-at-14.49.33-1.jpeg\" alt=\"\" width=\"1600\" height=\"1042\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-md.jpeg 768w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-lg.jpeg 1024w\"></figure>\n</div></div>\n</div>\n<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Mari Grobler</p>\n<p>Publisher: Tafelberg 1997 South Africa                  Dansk udgave; \"Trylleteppet\"                                                                                              Forlaget Hjulet 1997</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>",
             "image": "https://elizabethpulles.art/media/posts/24/tryllet.jpg",
             "author": {
                 "name": "Elizabeth Pulles"
@@ -112,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2024-03-16T18:40:47+02:00",
-            "date_modified": "2025-05-05T17:26:49+02:00"
+            "date_modified": "2025-11-27T16:36:54+02:00"
         },
         {
             "id": "https://elizabethpulles.art/ster-en-die-skugter-vyf/",
