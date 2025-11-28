@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-28T15:39:14+02:00</updated>
+    <updated>2025-11-28T16:15:10+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -19,12 +19,17 @@
         <media:content url="https://elizabethpulles.art/media/posts/33/Aunti-Mo-Molly-bike.png" medium="image" />
 
         <updated>2025-11-28T15:26:32+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://elizabethpulles.art/media/posts/33/Aunti-Mo-Molly-bike.png" alt="" />
+                    Molly Mouse is visiting her Aunti Mo at her house near the&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/33/Aunti-Mo-Molly-bike.png" class="type:primaryImage" alt="" /></p>
-                
-<p class="msg msg--info">Molly Mouse is visiting her Aunti Mo at her house near the beach for the first time. She has an adventurous time with her artist aunt and friends!</p>
+                <h1 class="msg msg--info">Molly Mouse is visiting her Aunti Mo at her house near the beach for the first time. She has an adventurous time with her artist aunt and friends!</h1>
+<p>Will also be publishable in Afrikaans as "Mollie Muis".</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images">
 <figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
 </div></div>
