@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-29T15:55:41+02:00</updated>
+    <updated>2025-11-29T16:07:38+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -301,25 +301,13 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/24/tryllet.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images">
-<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/24/WhatsApp-Image-2025-11-26-at-14.49.33.jpeg" alt="" width="1600" height="1027" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-md.jpeg 768w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-lg.jpeg 1024w"></figure>
-</div></div>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images">
-<div class="gallery"  data-is-empty="true" data-translation="Add images">
-<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/24/WhatsApp-Image-2025-11-26-at-14.49.33-1.jpeg" alt="" width="1600" height="1042" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-md.jpeg 768w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-1-lg.jpeg 1024w"></figure>
-</div></div>
-</div>
-<p>Illustrated by Elizabeth Pulles</p>
+                <p>Illustrated by Elizabeth Pulles</p>
 <p>Author: Mari Grobler</p>
 <p>Publisher: Tafelberg 1997 South Africa                  Dansk udgave; "Trylleteppet"                                                                                              Forlaget Hjulet 1997</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images"> </div></div>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true" data-translation="Add images">
-<div class="gallery"  data-is-empty="true" data-translation="Add images">
-<div class="gallery"  data-is-empty="true" data-translation="Add images">
-<figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/24/WhatsApp-Image-2025-11-26-at-14.49.33-2.jpeg" alt="" width="1600" height="1027" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/24/responsive/WhatsApp-Image-2025-11-26-at-14.49.33-2-lg.jpeg 1024w"></figure>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-1.jpeg" data-size="1600x1042"><img loading="lazy" src="https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-1-thumbnail.jpeg" alt="" width="768" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33.jpeg" data-size="1600x1027"><img loading="lazy" src="https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-thumbnail.jpeg" alt="" width="768" height="493"></a></figure>
 </div></div>
-</div>
-</div>
             ]]>
         </content>
     </entry>
