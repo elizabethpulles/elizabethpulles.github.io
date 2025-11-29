@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-29T15:51:39+02:00</updated>
+    <updated>2025-11-29T15:55:41+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -137,6 +137,7 @@
         <link href="https://elizabethpulles.art/poppy-le-bouvier-melville/"/>
         <id>https://elizabethpulles.art/poppy-le-bouvier-melville/</id>
         <media:content url="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-05-05T17:57:05+02:00</updated>
             <summary type="html">
