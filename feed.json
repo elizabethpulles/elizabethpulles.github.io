@@ -59,7 +59,7 @@
             "url": "https://elizabethpulles.art/poppy-le-bouvier-melville/",
             "title": "Poppy le Bouvier- Melville",
             "summary": "Illustrated by Elizabeth Pulles Based on my own dog ",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png\" alt=\"\" width=\"5008\" height=\"3425\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-xs.png 300w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-sm.png 480w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-md.png 768w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-lg.png 1024w\"></figure>\n<p>Illustrated by Elizabeth Pulles</p>\n<p>Based on my own dog </p>",
+            "content_html": "<p>Illustrated by Elizabeth Pulles</p>\n<p>Based on my own dog </p>",
             "image": "https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png",
             "author": {
                 "name": "Elizabeth Pulles"
@@ -67,7 +67,7 @@
             "tags": [
             ],
             "date_published": "2025-05-05T17:57:05+02:00",
-            "date_modified": "2025-11-26T15:32:49+02:00"
+            "date_modified": "2025-11-29T15:51:39+02:00"
         },
         {
             "id": "https://elizabethpulles.art/together-apart/",

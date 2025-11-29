@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2025-11-28T16:15:10+02:00</updated>
+    <updated>2025-11-29T15:51:39+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/33/Aunti-Mo-Molly-bike.png" medium="image" />
 
         <updated>2025-11-28T15:26:32+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/33/Aunti-Mo-Molly-bike.png" alt="" />
                     Molly Mouse is visiting her Aunti Mo at her house near the&hellip;
@@ -55,7 +55,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/32/WhatsApp-Image-2025-11-28-at-11.35.30-2.jpeg" medium="image" />
 
         <updated>2025-11-27T18:53:02+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/32/WhatsApp-Image-2025-11-28-at-11.35.30-2.jpeg" alt="" />
                     <p>Author: Klaus Kuhne</p>
@@ -97,7 +97,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/30/WhatsApp-Image-2025-11-25-at-16.29.37-2.jpeg" medium="image" />
 
         <updated>2025-11-25T16:07:38+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/30/WhatsApp-Image-2025-11-25-at-16.29.37-2.jpeg" alt="" />
                     <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
@@ -139,7 +139,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" medium="image" />
 
         <updated>2025-05-05T17:57:05+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" alt="" />
                     Illustrated by Elizabeth Pulles Based on my own dog 
@@ -148,8 +148,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://elizabethpulles.art/media/posts/29/2023-4-July-Poppy.png" alt="" width="5008" height="3425" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-xs.png 300w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-sm.png 480w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-md.png 768w ,https://elizabethpulles.art/media/posts/29/responsive/2023-4-July-Poppy-lg.png 1024w"></figure>
-<p>Illustrated by Elizabeth Pulles</p>
+                <p>Illustrated by Elizabeth Pulles</p>
 <p>Based on my own dog </p>
             ]]>
         </content>
@@ -164,7 +163,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg" medium="image" />
 
         <updated>2025-05-05T16:57:12+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/28/together-apart-cover.jpg" alt="" />
                     The story of living in Apartheid Comics illustrated by Elizabeth Pulles Authors:&hellip;
@@ -192,7 +191,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/27/siyolo.jpg" medium="image" />
 
         <updated>2025-05-05T16:56:35+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/27/siyolo.jpg" alt="" />
                     Illustrated by Elizabeth Pulles Author: Mari Grobler Publisher: Tafelberg 2008 South Africa
@@ -227,7 +226,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/26/african-mother.jpg" medium="image" />
 
         <updated>2025-05-05T16:56:09+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/26/african-mother.jpg" alt="" />
                     Illustrated by Elizabeth Pulles Author: Gcina Mhlophe Publisher: New Africa Books 2024&hellip;
@@ -262,7 +261,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/25/zoleka.jpg" medium="image" />
 
         <updated>2024-03-16T18:42:20+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/25/zoleka.jpg" alt="" />
                     Illustrated by Elizabeth Pulles Author: Gcina Mhlophe Publisher: David Philip 1994 South&hellip;
@@ -292,7 +291,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/24/tryllet.jpg" medium="image" />
 
         <updated>2024-03-16T18:40:47+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/24/tryllet.jpg" alt="" />
                     Illustrated by Elizabeth Pulles Author: Mari Grobler Publisher: Tafelberg 1997 South Africa&hellip;
@@ -333,7 +332,7 @@
         <media:content url="https://elizabethpulles.art/media/posts/23/ster.jpg" medium="image" />
 
         <updated>2024-03-16T18:28:28+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://elizabethpulles.art/media/posts/23/ster.jpg" alt="" />
                     Illustrated by Elizabeth Pulles Author: Henriette Linde-Loubser Publisher: Tafelberg 2020
