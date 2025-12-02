@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://elizabethpulles.art/dudus-basket/",
+            "url": "https://elizabethpulles.art/dudus-basket/",
+            "title": "Dudu&#x27;s Basket",
+            "content_html": "\n<p>Illustrator: Elizabeth Pulles</p>\n<p>Author: Dianne Stewart</p>\n<p>Publisher: Jacana Media 2016</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/36/gallery/basket-loading.jpeg\" data-size=\"1280x673\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/36/gallery/basket-loading-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"404\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/36/gallery/dudu-beach.jpeg\" data-size=\"1280x960\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/36/gallery/dudu-beach-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/36/gallery/mrs-M.jpeg\" data-size=\"1280x640\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/36/gallery/mrs-M-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"384\"></a></figure>\n</div></div>",
+            "image": "https://elizabethpulles.art/media/posts/36/WhatsApp-Image-2025-11-26-at-14.49.30-2.jpeg",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-02T14:31:58+02:00",
+            "date_modified": "2025-12-02T14:31:58+02:00"
+        },
+        {
+            "id": "https://elizabethpulles.art/golden-girl/",
+            "url": "https://elizabethpulles.art/golden-girl/",
+            "title": "Golden Girl",
+            "content_html": "\n<p>Illustrations: Elizabeth Pulles</p>\n<p>Author: Lerato Trok with Wendy Hartman</p>\n<p>Publisher: Jacana Media 2024<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/35/WhatsApp-Image-2025-12-02-at-13.13.48.jpeg\" alt=\"\" width=\"1280\" height=\"981\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/35/responsive/WhatsApp-Image-2025-12-02-at-13.13.48-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/35/responsive/WhatsApp-Image-2025-12-02-at-13.13.48-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/35/responsive/WhatsApp-Image-2025-12-02-at-13.13.48-md.jpeg 768w ,https://elizabethpulles.art/media/posts/35/responsive/WhatsApp-Image-2025-12-02-at-13.13.48-lg.jpeg 1024w\"></figure>",
+            "image": "https://elizabethpulles.art/media/posts/35/WhatsApp-Image-2025-12-02-at-12.28.28.jpeg",
+            "author": {
+                "name": "Elizabeth Pulles"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-02T13:58:00+02:00",
+            "date_modified": "2025-12-02T13:58:00+02:00"
+        },
+        {
             "id": "https://elizabethpulles.art/one-step-at-a-time/",
             "url": "https://elizabethpulles.art/one-step-at-a-time/",
             "title": "One Step at a Time",
@@ -129,36 +157,6 @@
             ],
             "date_published": "2025-05-05T16:56:09+02:00",
             "date_modified": "2025-11-27T16:47:08+02:00"
-        },
-        {
-            "id": "https://elizabethpulles.art/hi-zoleka/",
-            "url": "https://elizabethpulles.art/hi-zoleka/",
-            "title": "Hi Zoleka",
-            "summary": "Illustrated by Elizabeth Pulles Author: Gcina Mhlophe Publisher: David Philip 1994 South&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\" data-translation=\"Add images\" data-columns=\"3\"> </div></div>\n<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Gcina Mhlophe</p>\n<p>Publisher: David Philip 1994</p>\n<p>South Africa</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/25/WhatsApp-Image-2025-11-26-at-14.49.36-2.jpeg\" alt=\"\" width=\"1600\" height=\"642\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-lg.jpeg 1024w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/25/WhatsApp-Image-2025-11-26-at-14.49.35-4.jpeg\" alt=\"\" width=\"1600\" height=\"671\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-md.jpeg 768w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.35-4-lg.jpeg 1024w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://elizabethpulles.art/media/posts/25/WhatsApp-Image-2025-11-26-at-14.49.36-2-2.jpeg\" alt=\"\" width=\"1600\" height=\"674\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-xs.jpeg 300w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-sm.jpeg 480w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-md.jpeg 768w ,https://elizabethpulles.art/media/posts/25/responsive/WhatsApp-Image-2025-11-26-at-14.49.36-2-2-lg.jpeg 1024w\"></figure>",
-            "image": "https://elizabethpulles.art/media/posts/25/zoleka.jpg",
-            "author": {
-                "name": "Elizabeth Pulles"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-16T18:42:20+02:00",
-            "date_modified": "2025-11-26T17:06:35+02:00"
-        },
-        {
-            "id": "https://elizabethpulles.art/lulamas-magic-blanket/",
-            "url": "https://elizabethpulles.art/lulamas-magic-blanket/",
-            "title": "Lulama&#x27;s Magic Blanket",
-            "summary": "Illustrated by Elizabeth Pulles Author: Mari Grobler Publisher: Tafelberg 1997 South Africa&hellip;",
-            "content_html": "<p>Illustrated by Elizabeth Pulles</p>\n<p>Author: Mari Grobler</p>\n<p>Publisher: Tafelberg 1997 South Africa                  Dansk udgave; \"Trylleteppet\"                                                                                              Forlaget Hjulet 1997</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-1.jpeg\" data-size=\"1600x1042\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-1-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"500\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33.jpeg\" data-size=\"1600x1027\"><img loading=\"lazy\" src=\"https://elizabethpulles.art/media/posts/24/gallery/WhatsApp-Image-2025-11-26-at-14.49.33-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"493\"></a></figure>\n</div></div>",
-            "image": "https://elizabethpulles.art/media/posts/24/tryllet.jpg",
-            "author": {
-                "name": "Elizabeth Pulles"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-16T18:40:47+02:00",
-            "date_modified": "2025-11-29T16:07:38+02:00"
         }
     ]
 }
