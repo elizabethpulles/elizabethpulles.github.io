@@ -3,7 +3,7 @@
     <title>Elizabeth Pulles</title>
     <link href="https://elizabethpulles.art/feed.xml" rel="self" />
     <link href="https://elizabethpulles.art" />
-    <updated>2026-01-15T10:54:22+02:00</updated>
+    <updated>2026-01-15T12:28:48+02:00</updated>
     <author>
         <name>Elizabeth Pulles</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://elizabethpulles.art/elizabeth-pulles/"/>
         <id>https://elizabethpulles.art/elizabeth-pulles/</id>
+        <media:content url="https://elizabethpulles.art/media/posts/38/self-portrait.png" medium="image" />
 
         <updated>2026-01-14T19:22:46+02:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://elizabethpulles.art/media/posts/38/self-portrait.png" alt="" />
                     Most Recent Picture Books Illustrated Thokozani The Eland ( Gcina Mhlophe )&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Most <span style="text-decoration: underline;">Recent Picture Books Illustrated</span></p>
+                    <p><img src="https://elizabethpulles.art/media/posts/38/self-portrait.png" class="type:primaryImage" alt="" /></p>
+                <p><span style="text-decoration: underline;">Most</span> <span style="text-decoration: underline;">Recent Picture Books Illustrated</span></p>
 <p>Thokozani The Eland      ( <em>Gcina Mhlophe )     </em>Jacana Children's Books 2025</p>
 <p>Mr Fitchelstein' Safari Company      ( <em>Lauri Kabuitsile )</em>     Modjaji Books 2025</p>
 <p>Nomkhubulwane, African Mother Xmas      ( <em>Gcina Mhlophe )     </em>New Africa Books 2024</p>
